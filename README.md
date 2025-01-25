@@ -8,3 +8,8 @@ Bienvenido a mi perfil. Aquí encontrarás proyectos interesantes, soluciones cr
 
 ## Contacto
 - [LinkedIn](https://www.linkedin.com/in/elaine-cabrera)) | [Correo](ejccab@hotmail.com)
+
+## Proyectos
+- [Predicción de la Demanda de Taxis] https://github.com/ejc-cpu/prediccion-demanda-taxis.git
+- [Retención de Clientes en Telecomunicaciones] https://github.com/ejc-cpu/retencion-clientes-telecom.git
+  
